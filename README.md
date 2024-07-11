@@ -24,7 +24,7 @@ The rules are straightforward:
 - Paper beats Rock
 
 In this web-based version, you will play against the computer, and the winner is determined based on the classic rules.
-You can play the live version of the game [here]([https://your-live-link.com](https://ujjawal127.github.io/Rock_paper_scissors-game/)).
+You can play the live version of the game [here]https://ujjawal127.github.io/Rock_paper_scissors-game/).
 
 ## Features
 
